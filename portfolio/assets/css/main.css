@@ -242,7 +242,9 @@ input, select, textarea {
 	}
 
 /* Container */
-
+body{
+	background: lightgrey;
+}
 	.container {
 		margin: 0 auto;
 		max-width: calc(100% - 4em);
